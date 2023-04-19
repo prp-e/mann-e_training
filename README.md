@@ -15,3 +15,5 @@ _TBD_
 ## More information
 
 ### Licensing
+
+The `training.ipynb` notebook is for trainng and it's based on _the last ben_'s _Fast Dream Booth_ and may have different license. The other codes provided here are all MIT licensed.
