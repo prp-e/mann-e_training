@@ -14,4 +14,4 @@ _TBD_
 
 ## More information
 
-_TBD_
+### Licensing
